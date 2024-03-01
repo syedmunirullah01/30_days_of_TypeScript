@@ -1,0 +1,48 @@
+// Dive Into TypeScript: What It Is, How It Works, and Why You Should Learn It?
+
+Welcome to the 100 Days of TypeScript Challenge!
+
+This article kicks off our journey to learn TypeScript, a special programming language that helps us write better code 
+for websites and apps. If you're following along, check out the code and give a star to our GitHub repository here: 
+100_days_of_TypeScript
+
+// What is TypeScript?
+
+Imagine you're building a tower with blocks. If the blocks could talk and tell you where they fit best, building would be 
+easier, right? TypeScript does something similar for coding. It’s like JavaScript, which is used to create websites, but 
+it gives you hints to help you avoid mistakes. This makes your code stronger, like a well-built tower.
+
+// How It Works
+
+TypeScript works like a helpful friend who checks your work. When you write code, TypeScript looks over your shoulder and 
+says, "Hey, this piece might not fit here," before you even finish. This way, you can fix it right away instead of finding
+out later that something's wrong. When you're done, TypeScript turns your code into JavaScript with the help of (tsc compiler) 
+so that any browser can understand it via Node.js
+
+// Why Learn TypeScript?
+
+Learning TypeScript is a great idea because:
+
+1. It Helps Catch Mistakes Early: It’s like noticing a spelling mistake before you send a text message.
+2. Makes Your Code Clearer: Everyone can understand your code better, even you in the future when you come back to it.
+3. It's Popular with Companies: Many companies use TypeScript, so knowing it can help you get a job in coding.
+
+// FAQs
+
+// Q: Do I need to learn JavaScript before TypeScript?
+
+A: Yes, but don't worry at all because in this #100_days_of_TypeScript Challenge we will cover both JavaScript and TypeScript topics simultaneously.
+
+// Q: Can TypeScript be used for both front-end and back-end development?
+
+A: Absolutely! useful in various scenarios.
+
+// Q: Is TypeScript difficult to learn?
+
+A: It has a learning curve, especially if you're new to types, well The more you (practice), the better you get.
+
+// Conclusion
+
+TypeScript is a great language that makes coding easier and less error-prone. By learning it, you’re not just following a trend,
+you’re improving your skills in a way that will help you build better websites and apps. Join us in this 100-day challenge,
+learn at your own pace, and see how TypeScript can change the way you code!
