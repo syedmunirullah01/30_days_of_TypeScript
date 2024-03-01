@@ -1,0 +1,70 @@
+👨‍💻 Day_02 of #100DaysOfTypeScript Challenge😎 
+
+💻 Today's Topic: Install TypeScript and Its Necessary Working Things: VSCode and Node.js.
+
+Welcome back to Day 2 of our 100 Days of TypeScript Challenge!
+
+Today, we're diving into how to get started with TypeScript by installing all the tools you'll need: 
+TypeScript itself, Visual Studio Code (VSCode), and Node.js. Don't worry, it's like setting up your 
+workspace with all the right tools before starting a big project. Let's make sure you have everything
+ready to go!
+
+What You Need to Install
+
+1. Node.js
+
+Think of Node.js as the engine that powers your coding projects. It lets you run JavaScript (which TypeScript 
+turns into) outside of a web browser. This means you can test and run your projects directly on your computer,
+just like you'd run a program.
+
+- Why It's Needed:
+
+It's necessary for running the TypeScript compiler and managing the packages that make coding a lot easier.
+
+- Download Link: Node.js Download
+
+// Check the installation of node.js via this command on command prompt:
+node -v
+
+2. Visual Studio Code (VSCode)
+
+VSCode is like your digital toolbox where you'll write and manage your code. It's a text editor made for coding, 
+and it's really good at understanding TypeScript. It helps you by highlighting mistakes, offering suggestions, 
+and even auto-completing some of your code.
+
+- Why It's Needed:
+
+It makes writing TypeScript (and coding in general) a lot smoother and more enjoyable.
+
+- Download Link: VSCode Download
+
+
+3. TypeScript Compiler
+
+Now, we get to TypeScript itself. Installing the TypeScript Compiler means you're adding it to your toolbox so 
+you can start writing code in TypeScript language and compiling it into JavaScript. It's like adding a new set 
+of tools specifically designed for building more robust and error-free projects.
+
+- Why It's Needed: 
+
+To write TypeScript code, compile it into JavaScript, and catch errors early in the development process.
+
+- Download Link: You'll install TypeScript using Node.js. Once Node.js is installed, you can open your 
+command line or terminal and type the following command: 
+
+ npm install -g typescript
+
+  // Check the installation via this command:
+  tsc -v
+
+How to Install Everything
+
+1. Install Node.js: Go to the Node.js download link above, choose the version for your operating system, and follow the installation instructions.
+2. Install VSCode: Follow the VSCode download link, select the version for your operating system, and complete the installation process.
+3. Install TypeScript: With Node.js installed, open your terminal or command prompt and enter the command provided above. This installs TypeScript 
+globally on your computer, meaning you can use it in any project.
+
+Conclusion
+
+Setting up your development environment with Node.js, VSCode, and TypeScript is like laying the foundation for a building. It's the first step to ensuring that your coding projects have a strong base and the right tools to succeed. Remember, this setup is part of our journey through the 100 Days of TypeScript Challenge. By preparing your workspace today, you're setting yourself up for success in the days to come.
+Stay tuned for tomorrow's challenge, and don't forget to check out the code and star our GitHub repository to support the project: 
