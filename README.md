@@ -1,16 +1,16 @@
-🚀 100 Days of TypeScript Challenge 🚀
+🚀 30 Days of TypeScript Challenge 🚀
 
-Welcome to the 100 Days of TypeScript Challenge! This is your starting point to transition from a complete beginner to a confident TypeScript developer.
+Welcome to the 30 Days of TypeScript Challenge! This is your starting point to transition from a complete beginner to a confident TypeScript developer.
 
 🌟 TypeScript has become a cornerstone in modern web development, and mastering it will open doors to numerous opportunities.
 
 🎯 Challenge Objective
 
-The goal is simple: dedicate a portion of your day to learning and coding in TypeScript for the next 100 days. By the end of this journey, you will have a solid understanding of TypeScript and its applications, making you a proficient TypeScript developer. 🌈
+The goal is simple: dedicate a portion of your day to learning and coding in TypeScript for the next 30 days. By the end of this journey, you will have a solid understanding of TypeScript and its applications, making you a proficient TypeScript developer. 🌈
 
 📚 What You Will Learn
 
-Day 1-100: Become a TypeScript Developer, Beginner to Advance Level.
+Day 1-30: Become a TypeScript Developer, Beginner to Advance Level.
 
 📖 How to Approach This Challenge
 
@@ -35,10 +35,10 @@ Keep a daily log of your progress. Share your achievements, no matter how small,
 
 💪 Let's Get Started!
 
-Are you ready to embark on this 100-day journey? Remember, the path to becoming a TypeScript developer is not just about reading and watching but about doing. Let's code, learn, and grow together! 🚀
+Are you ready to embark on this 30-day journey? Remember, the path to becoming a TypeScript developer is not just about reading and watching but about doing. Let's code, learn, and grow together! 🚀
 
 📅 Start Date: [2/02/2024]
 Happy Coding, and see you at the finish line! 🏁 Please Star the Repositry🌟
 
-#100DaysOfTypeScript #CodeToLearn #LearningJourney
+#30DaysOfTypeScript #CodeToLearn #LearningJourney
 
